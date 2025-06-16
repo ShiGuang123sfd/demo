@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://s3-o-bucket.s3.ap-east-1.amazonaws.com/ios/w%E4%BB%A3%E7%90%86.ipa?response-content-disposition=inline&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Security-Token=IQoJb3JpZ2luX2VjECcaCWFwLWVhc3QtMSJHMEUCIB%2B0pz9tnfAxtLAIFHRzKYG1a0VS1e2rN69V%2FeEIByl%2BAiEA2JLLDSxDF7b%2B5y4m2Qlh7Yz%2BwHfi0ZL47iYcW9ZeEEQqzAMIERAAGgw2NTQ2NTQ0ODc0NTEiDCb9F8boaN1rItHr9iqpA5hAye79dvcw%2FZuTzZfnpFrHjVAbnXFkBBmq%2Fh%2BSexFlUgUnMjeL3BymUb1Pj4FWd9BJTPqTQSkaJMsG%2F0jabgEE4ICfT17IwVvxCZ5aoVZb3Lz43LYf3y1ktZscf%2FvPDxe9Fkz3O7NV1OBj0bW0S5Iknj8lmHLwnLAMoigm2VesW5KDNRqQdw9M2T%2BLqfMVpFD8ENjHPkCiwpv0Dyu4HY5t1IJW%2FfMlSmLPvhpOw6QXFmQPRs9vAKzWz%2B%2FrQ%2FZ%2FPI88sZ%2FK70E1fokUoXhqYfnaudP0azgK0RCSRP6qRhzEMECJ8YKFFCncHRBAJnlAYFRB96ZutJA4CgFoaJUeVmEUuOqPtcC3JFUrt8cygznnvoypK8DqqZv2eXz6BVxGb6afXzmPPRKEIpUynZpvsxaW5Nz1SG1dBhohXoJZ%2Fz9GCiGTzy3SY27PghaLfmCeYxLriosewldlWV0waDc4yoAZwRovhY3EFf0I6LlWc%2BK4r%2BpR9WzUH1meC8zpEcJowaWLM16JCTJSMnxjDoQFnraY3hLYl6OWaU2hbcI3jngDTuJ0DSWxPEvCMKD1rsIGOt4CWS4IUfcu1WV69BCLh6oR80jCXAvbnMKUDI5Cw56%2F4RFkNh4F0DXe0IRB31ejPaIeo5dhvq324hdtivdoNDRZRcxKwNjcZulKi4HsGpL2jMMG6XD8IQjxlu5vEyRZztgZw0KqB0Yu%2F8gkq%2BKz9vEJw78MLrT3y1RHWH6cM9NbBT7wcO1kdBO4LMT5d4qBwPA8rcTbKP8Tm86GiF7StgixrYi7lpN0qhe26xWaKvU8lyERDjGbuQQbMyy2ePyXnYKCF7yrm44fneEJgn%2BaDaBlWksT5Za%2FMT%2F29%2BxXH00aOqwYCZdN3BO144bi2P0qHXIs3iFs5LJ2G7sK%2B1ZMb%2F3ZkbySylONvcL7ktUYa88H1mvwGzi4TfMSh0zVJmSmDIs15qEWlwhSVu7djbCdPpD57yDgZH6dNWtZRKAgbf6QVP9VTCbx0E%2B53MFSc6GZNHjsYRmLBjatzk9KCgW46Eg%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=ASIAZQ3DSXONTHCCL6ZU%2F20250613%2Fap-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20250613T073425Z&amp;X-Amz-Expires=43200&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=592cb8981c3c3c8e930ba14cbc4fe83fc6f63acb3631dc2b099d648f139f6672</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.au.fbk.WebDriverAgentRunner</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>w代理</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
